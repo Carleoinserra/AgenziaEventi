@@ -7,3 +7,11 @@ Infine, alla conferma dell'acquisto viene inviata una mail che conferma l'acquis
 
 
 <img width="454" alt="Screenshot 2024-08-01 alle 17 13 31" src="https://github.com/user-attachments/assets/31a465fa-04f0-4b5c-b9ac-16779297bea9">
+
+
+Lo store possiede un carrello realizzato con Javascript 
+
+
+
+
+<img width="1516" alt="Screenshot 2024-08-02 alle 09 10 24" src="https://github.com/user-attachments/assets/1c4f2fc8-c151-4a6c-8848-b93e7d2cfc1b">
